@@ -1,7 +1,11 @@
 <h1 align="center"> Desafio 1 (Rocketseat): Venda de Móveis </h1>
 
 <p align="center">
-  <img alt="projeto Móveis" src="#" width="100%">
+  <a href="#memo-licença"></a>
+</p>
+
+<p align="center">
+  <img alt="projeto Móveis" src="Móveis.png" width="100%">
 </p>
 
 <p align="center">
