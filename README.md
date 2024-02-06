@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio 1 (Rocketseat): Venda de Móveis </h1>
+<h1 align="center"> Stage2, desafio 1 (Rocketseat): Venda de Móveis </h1>
 
 <p align="center">
   <a href="#memo-licença"></a>
